@@ -1,6 +1,6 @@
-# Jekyll config file for DEV builds
+# Jekyll config file for LIVE builds
 
-name: Matt Rybin
+name: Project Name
 description: Description of Project
 author: Author Name
 author_email: author@email.com

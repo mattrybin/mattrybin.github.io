@@ -1,0 +1,18 @@
+{
+  "name": "project_name",
+  "version": "0.0.0",
+  "description": "Description of Project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Author Name",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-sass": "^2.3.2"
+  }
+}
